@@ -23,4 +23,6 @@ public class Student {
     @Column(name="DateOfJoin")
     private String dataOfJoin;
 
+    private String git;
+
 }
